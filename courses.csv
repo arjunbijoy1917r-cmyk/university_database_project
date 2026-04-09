@@ -1,0 +1,4 @@
+course_code,course_name,credits,max_students
+CS101,Python Programming,3,30
+CS102,Database Systems,4,25
+CS103,Data Structures,3,20

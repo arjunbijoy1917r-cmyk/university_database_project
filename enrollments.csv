@@ -1,0 +1,4 @@
+student_id,course_code,date,status
+101,CS101,2025-09-01,active
+102,CS102,2025-09-02,active
+103,CS103,2025-09-03,active
