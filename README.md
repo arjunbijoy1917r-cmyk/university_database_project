@@ -1,7 +1,7 @@
 # University Database Project
 
 ## Student Details
-Name: Arjun  
+Name: Arjun Bijoy
 Course: B103 Databases & Big Data  
 
 ## Project Description
